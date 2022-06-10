@@ -1,0 +1,16 @@
+#button{
+    color:#ccc;
+    cursor: pointer;
+    font:inherit;
+    font-size: 16px;
+    display: flex;
+    border: none;
+    outline:none;
+    width: 100%;
+    background: none;
+    align-items: center;
+};
+.emph-div{
+    display: flex;
+    flex-direction: row;
+}
